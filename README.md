@@ -9,4 +9,6 @@ Updating README from Feature
 
 Adding Feature 2
 
-Adding Feature 3. 
+Adding Feature 3
+
+Adding Feature 4 
